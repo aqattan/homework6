@@ -1,0 +1,27 @@
+#pg1 {font-size: 16pt;
+}
+#pg2 {color: red;
+    font-size: 16pt;
+}
+.oranges { list-style-image: url("http://icons.iconarchive.com/icons/gcds/chinese-new-year/16/orange-icon.png");
+  background-position: left center;
+  background-repeat: no-repeat;
+ }
+ .apples { list-style-image: url("http://icons.iconarchive.com/icons/artbees/paradise-fruits/16/Apple-icon.png"); 
+  background-position: left center;
+  background-repeat: no-repeat;
+  }
+  .strawberry { list-style-image: url("http://icons.iconarchive.com/icons/fi3ur/fruitsalad/16/strawberry-icon.png"); 
+  background-position: left center;
+  background-repeat: no-repeat;
+  }
+  .blueberry { list-style-image: url("http://icons.iconarchive.com/icons/miniartx/fruit/16/blueberry-icon.png"); 
+  background-position: left center;
+  background-repeat: no-repeat;
+  }
+  .grapes { list-style-image: url("http://icons.iconarchive.com/icons/martin-berube/food/16/grapes-icon.png"); 
+  background-position: left center;
+  background-repeat: no-repeat;
+  }
+#gif { list-style-image: url('http://icons.iconarchive.com/icons/graphicloads/folded/24/paragraph-folded-icon.png');
+}
